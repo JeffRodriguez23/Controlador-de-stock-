@@ -72,21 +72,21 @@ public class StockProductos extends javax.swing.JFrame {
         jLabel1.setFont(new java.awt.Font("Liberation Serif", 3, 26)); // NOI18N
         jLabel1.setText("Datos de Producto :");
 
-        btnEditar.setIcon(new javax.swing.ImageIcon("C:\\Users\\Usuario\\Documents\\recursos APP\\editar-PhotoRoom.png-PhotoRoom.png")); // NOI18N
+        btnEditar.setIcon(new javax.swing.ImageIcon("C:\\Users\\Usuario\\Documents\\NetBeansProjects\\Controlador-de-stock-\\src\\main\\resources\\imagenes\\editar-PhotoRoom.png-PhotoRoom.png")); // NOI18N
         btnEditar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btnEditarActionPerformed(evt);
             }
         });
 
-        btnEliminar.setIcon(new javax.swing.ImageIcon("C:\\Users\\Usuario\\Documents\\recursos APP\\eliminarIcon.png")); // NOI18N
+        btnEliminar.setIcon(new javax.swing.ImageIcon("C:\\Users\\Usuario\\Documents\\NetBeansProjects\\Controlador-de-stock-\\src\\main\\resources\\imagenes\\eliminarIcon.png")); // NOI18N
         btnEliminar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btnEliminarActionPerformed(evt);
             }
         });
 
-        btnAtras.setIcon(new javax.swing.ImageIcon("C:\\Users\\Usuario\\Documents\\recursos APP\\btnAtras1.png")); // NOI18N
+        btnAtras.setIcon(new javax.swing.ImageIcon("C:\\Users\\Usuario\\Documents\\NetBeansProjects\\Controlador-de-stock-\\src\\main\\resources\\imagenes\\btnAtras1.png")); // NOI18N
         btnAtras.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btnAtrasActionPerformed(evt);

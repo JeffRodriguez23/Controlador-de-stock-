@@ -1,11 +1,11 @@
 package com.forrajeria.forrajeriarya.igu;
 
 public class PantallaPrincipal extends javax.swing.JFrame {
-
+    
     public PantallaPrincipal() {
         initComponents();
     }
-
+    
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
@@ -71,7 +71,7 @@ public class PantallaPrincipal extends javax.swing.JFrame {
         jLabel1.setFont(new java.awt.Font("Liberation Serif", 3, 64)); // NOI18N
         jLabel1.setText("Control de Stock");
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\Usuario\\Documents\\recursos APP\\fondo-PhotoRoom-PhotoRoom-PhotoRoom.png-PhotoRoom.png")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\Usuario\\Documents\\NetBeansProjects\\Controlador-de-stock-\\src\\main\\resources\\imagenes\\fondo-PhotoRoom-PhotoRoom-PhotoRoom.png-PhotoRoom.png")); // NOI18N
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -123,7 +123,7 @@ public class PantallaPrincipal extends javax.swing.JFrame {
         CargaDatos pantallaCargar = new CargaDatos();
         pantallaCargar.setVisible(true);
         pantallaCargar.setLocationRelativeTo(null);
-
+        
 
     }//GEN-LAST:event_btnAgregarActionPerformed
 
@@ -136,7 +136,8 @@ public class PantallaPrincipal extends javax.swing.JFrame {
     }//GEN-LAST:event_btnStockActionPerformed
 
     private void btnSalirActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnSalirActionPerformed
-        this.dispose();    }//GEN-LAST:event_btnSalirActionPerformed
+        System.exit(0);  // TODO add your handling code here:
+    }//GEN-LAST:event_btnSalirActionPerformed
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables

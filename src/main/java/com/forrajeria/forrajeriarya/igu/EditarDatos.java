@@ -45,7 +45,7 @@ public class EditarDatos extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\Usuario\\Documents\\recursos APP\\fondo-PhotoRoom-PhotoRoom-PhotoRoom.png-PhotoRoom.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\Usuario\\Documents\\NetBeansProjects\\Controlador-de-stock-\\src\\main\\resources\\imagenes\\fondo-PhotoRoom-PhotoRoom-PhotoRoom.png-PhotoRoom.png")); // NOI18N
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
@@ -147,7 +147,7 @@ public class EditarDatos extends javax.swing.JFrame {
         );
 
         btnGuardar.setFont(new java.awt.Font("Liberation Serif", 3, 22)); // NOI18N
-        btnGuardar.setIcon(new javax.swing.ImageIcon("C:\\Users\\Usuario\\Documents\\recursos APP\\limpiar1-PhotoRoom.png-PhotoRoom.png")); // NOI18N
+        btnGuardar.setIcon(new javax.swing.ImageIcon("C:\\Users\\Usuario\\Documents\\NetBeansProjects\\Controlador-de-stock-\\src\\main\\resources\\imagenes\\limpiar1-PhotoRoom.png-PhotoRoom.png")); // NOI18N
         btnGuardar.setText("Limpiar");
         btnGuardar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -156,7 +156,7 @@ public class EditarDatos extends javax.swing.JFrame {
         });
 
         btnGuardar1.setFont(new java.awt.Font("Liberation Serif", 3, 20)); // NOI18N
-        btnGuardar1.setIcon(new javax.swing.ImageIcon("C:\\Users\\Usuario\\Documents\\recursos APP\\guardar1-PhotoRoom.png-PhotoRoom.png")); // NOI18N
+        btnGuardar1.setIcon(new javax.swing.ImageIcon("C:\\Users\\Usuario\\Documents\\NetBeansProjects\\Controlador-de-stock-\\src\\main\\resources\\imagenes\\guardar1-PhotoRoom.png-PhotoRoom.png")); // NOI18N
         btnGuardar1.setText("Guardar Cambios");
         btnGuardar1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {

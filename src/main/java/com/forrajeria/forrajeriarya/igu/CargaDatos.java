@@ -54,7 +54,7 @@ public class CargaDatos extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\Usuario\\Documents\\recursos APP\\fondo-PhotoRoom-PhotoRoom-PhotoRoom.png-PhotoRoom.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\Usuario\\Documents\\NetBeansProjects\\Controlador-de-stock-\\src\\main\\resources\\imagenes\\fondo-PhotoRoom-PhotoRoom-PhotoRoom.png-PhotoRoom.png")); // NOI18N
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
@@ -204,7 +204,7 @@ public class CargaDatos extends javax.swing.JFrame {
         );
 
         btnLimpiar.setFont(new java.awt.Font("Liberation Serif", 3, 22)); // NOI18N
-        btnLimpiar.setIcon(new javax.swing.ImageIcon("C:\\Users\\Usuario\\Documents\\recursos APP\\limpiar1-PhotoRoom.png-PhotoRoom.png")); // NOI18N
+        btnLimpiar.setIcon(new javax.swing.ImageIcon("C:\\Users\\Usuario\\Documents\\NetBeansProjects\\Controlador-de-stock-\\src\\main\\resources\\imagenes\\limpiar1-PhotoRoom.png-PhotoRoom.png")); // NOI18N
         btnLimpiar.setText("Limpiar");
         btnLimpiar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -213,7 +213,7 @@ public class CargaDatos extends javax.swing.JFrame {
         });
 
         btnGuardar.setFont(new java.awt.Font("Liberation Serif", 3, 22)); // NOI18N
-        btnGuardar.setIcon(new javax.swing.ImageIcon("C:\\Users\\Usuario\\Documents\\recursos APP\\guardar1-PhotoRoom.png-PhotoRoom.png")); // NOI18N
+        btnGuardar.setIcon(new javax.swing.ImageIcon("C:\\Users\\Usuario\\Documents\\NetBeansProjects\\Controlador-de-stock-\\src\\main\\resources\\imagenes\\guardar1-PhotoRoom.png-PhotoRoom.png")); // NOI18N
         btnGuardar.setText("Guardar");
         btnGuardar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -243,7 +243,7 @@ public class CargaDatos extends javax.swing.JFrame {
         );
 
         btnAtras.setFont(new java.awt.Font("Liberation Serif", 3, 22)); // NOI18N
-        btnAtras.setIcon(new javax.swing.ImageIcon("C:\\Users\\Usuario\\Documents\\recursos APP\\btnAtras2.png")); // NOI18N
+        btnAtras.setIcon(new javax.swing.ImageIcon("C:\\Users\\Usuario\\Documents\\NetBeansProjects\\Controlador-de-stock-\\src\\main\\resources\\imagenes\\btnAtras2.png")); // NOI18N
         btnAtras.setText("Atras");
         btnAtras.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
