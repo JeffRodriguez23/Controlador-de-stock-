@@ -71,7 +71,7 @@ public class PantallaPrincipal extends javax.swing.JFrame {
         jLabel1.setFont(new java.awt.Font("Liberation Serif", 3, 64)); // NOI18N
         jLabel1.setText("Control de Stock");
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\Usuario\\Documents\\NetBeansProjects\\Controlador-de-stock-\\src\\main\\resources\\imagenes\\fondo-PhotoRoom-PhotoRoom-PhotoRoom.png-PhotoRoom.png")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/fondo-PhotoRoom-PhotoRoom-PhotoRoom.png-PhotoRoom.png"))); // NOI18N
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
